@@ -17,4 +17,3 @@ Test that your bot is working by @ing it.
 [RTM API]: <https://api.slack.com/rtm>
 [create a new slack app]: <https://api.slack.com/apps>
 # Slack-Weather-Bot
-# Slack-Weather-Bot
