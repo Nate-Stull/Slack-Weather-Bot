@@ -1,4 +1,4 @@
-# Skeleton-Slackbot
+# Slack-Weather-Bot
 This is starter code for making a python slackbot that uses [lins05's slackbot] package based on the slack [RTM API]. 
 ## Setup
 Before anything else, you should have python (version 3 or later) installed along with pip, a python package manager. You will need to run the following command in order to run the bot:
@@ -16,4 +16,3 @@ Test that your bot is working by @ing it.
 [lins05's slackbot]: <https://github.com/lins05/slackbot>
 [RTM API]: <https://api.slack.com/rtm>
 [create a new slack app]: <https://api.slack.com/apps>
-# Slack-Weather-Bot
