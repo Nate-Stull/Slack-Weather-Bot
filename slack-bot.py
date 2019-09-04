@@ -29,7 +29,7 @@ def jacket(slackClient, user, info, chnl): #asking if jacket is needed
     text= 'Well it\'s ~bOop~ ' + str(info['temp']) + ' ~boP~ degrees, so I\'d say ' + needed + '!')
 
 def parse_bot_commands(events):
-    url = 'http://api.openweathermap.org/data/2.5/weather?q=Gainesville&units=imperial&appid=47bd63b72d1cab344e5504bce56597f7'
+    url = 'http://api.openweathermap.org/data/2.5/weather?q=Gainesville&units=imperial&appid=*******************'
     json_obj = urllib2.urlopen(url)
     data = json.load(json_obj)
     main = data['main'] #temperature information
